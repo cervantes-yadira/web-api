@@ -1,0 +1,4 @@
+node_modules
+scripts/mysql_data
+scripts/docker-compose.yml
+config.env
