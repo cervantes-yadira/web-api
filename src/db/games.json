@@ -1,0 +1,106 @@
+[
+    {
+        "title": "Tekken 8",
+        "release_date": "2024-07-12",
+        "platforms": [
+            "PC",
+            "PlayStation 5",
+            "Xbox Series X/S",
+            "Nintendo Switch"
+        ],
+        "genre": "Fighting",
+        "developer": "Bandai Namco Entertainment",
+        "rating": "T"
+    },
+    {
+        "title": "Marvel's Spider-Man 2",
+        "release_date": "2024-10-20",
+        "platforms": [
+            "PlayStation 5"
+        ],
+        "genre": "Action-Adventure",
+        "developer": "Insomniac Games",
+        "rating": "T"
+    },
+    {
+        "title": "Final Fantasy XVII",
+        "release_date": "2025-03-10",
+        "platforms": [
+            "PC",
+            "PlayStation 5",
+            "Xbox Series X/S"
+        ],
+        "genre": "Role-Playing",
+        "developer": "Square Enix",
+        "rating": "T"
+    },
+    {
+        "title": "Hollow Knight: Silksong",
+        "release_date": "2024-11-08",
+        "platforms": [
+            "PC",
+            "PlayStation 5",
+            "Xbox Series X/S",
+            "Nintendo Switch"
+        ],
+        "genre": "Action-Adventure",
+        "developer": "Team Cherry",
+        "rating": "E10+"
+    },
+    {
+        "title": "Star Wars: Eclipse",
+        "release_date": "2025-05-18",
+        "platforms": [
+            "PC",
+            "PlayStation 5",
+            "Xbox Series X/S"
+        ],
+        "genre": "Action-Adventure",
+        "developer": "Quantic Dream",
+        "rating": "M"
+    },
+    {
+        "title": "Elden Ring: Shadows of the Erdtree",
+        "release_date": "2024-09-22",
+        "platforms": [
+            "PC",
+            "PlayStation 5",
+            "Xbox Series X/S"
+        ],
+        "genre": "Action Role-Playing",
+        "developer": "FromSoftware",
+        "rating": "M"
+    },
+    {
+        "title": "Metroid Prime 4",
+        "release_date": "2024-12-14",
+        "platforms": [
+            "Nintendo Switch"
+        ],
+        "genre": "Action-Adventure",
+        "developer": "Retro Studios",
+        "rating": "T"
+    },
+    {
+        "title": "Fable",
+        "release_date": "2025-04-25",
+        "platforms": [
+            "PC",
+            "Xbox Series X/S"
+        ],
+        "genre": "Role-Playing",
+        "developer": "Playground Games",
+        "rating": "T"
+    },
+    {
+        "title": "Avowed",
+        "release_date": "2024-08-30",
+        "platforms": [
+            "PC",
+            "Xbox Series X/S"
+        ],
+        "genre": "Action Role-Playing",
+        "developer": "Obsidian Entertainment",
+        "rating": "M"
+    }
+]

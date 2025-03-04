@@ -1,0 +1,52 @@
+body {
+    width: 90%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+
+    section {
+        border: 1px solid royalblue;
+        padding: 20px;
+        border-radius: 10px;
+
+        &:hover {
+            background-color: aliceblue;
+        }
+    }
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 40%;
+    margin: 20px auto;
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 20px;
+
+    section {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+    }
+}
+
+.delete-button {
+    border: solid 1px darkred;
+    border-radius: 5px;
+    background-color: lightcoral;
+    color: darkred;
+    float: inline-end;
+    margin: 5px;
+}
